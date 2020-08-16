@@ -1,0 +1,8 @@
+name: UpdateCheckPlus
+author: MisterMel
+version: 1.0.0
+main: tech.mistermel.updatecheckplus.UpdateCheckPlus
+commands:
+   updatecheck:
+      description: Checks all plugins for available updates
+      permission: updatecheckplus.check

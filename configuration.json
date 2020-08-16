@@ -1,0 +1,32 @@
+{
+	"INFO": "This file contains plugin's Spigot resource ID. IDs for some popular plugins are included by default, but you can add your own if needed. Do not change the fileSchemaVersion or fileVersion below.",
+	"fileSchemaVersion": 1,
+	"fileVersion": 1,
+	"ids": {
+		"AdvancedBan": 8695,
+		"AsyncWorldEdit": 327,
+		"CoreProtect": 8631,
+		"dynmap": 274,
+		"Essentials": 9089,
+		"EssentialsAntiBuild": 9089,
+		"EssentialsChat": 9089,
+		"EssentialsGeoIP": 9089,
+		"EssentialsProtect": 9089,
+		"EssentialsSpawn": 9089,
+		"EssentialsXMPP": 9089,
+		"F3NPerm": 46461,
+		"GriefPrevention": 1884,
+		"LuckPerms": 28140,
+		"LuckPermsChat": 68965,
+		"LPC": 68965,
+		"Multiverse-Core": 390,
+		"PlaceholderAPI": 6245,
+		"ProtocolLib": 1997,
+		"Scoreboard-revision": 14754,
+		"SuperVanish": 1331,
+		"Vault": 34315,
+		"VoidGenerator": 25391,
+		"Votifier": 13449,
+		"WorldBorder": 60905
+	}
+}
