@@ -5,7 +5,9 @@
 	"ids": {
 		"AdvancedBan": 8695,
 		"AsyncWorldEdit": 327,
+		"AuctionHouse": 61836,
 		"CoreProtect": 8631,
+		"ChestShop": 51856,
 		"dynmap": 274,
 		"Essentials": 9089,
 		"EssentialsAntiBuild": 9089,
@@ -23,6 +25,7 @@
 		"PlaceholderAPI": 6245,
 		"ProtocolLib": 1997,
 		"Scoreboard-revision": 14754,
+		"SignShop": 10997,
 		"SuperVanish": 1331,
 		"UpdateCheckPlus": 82812,
 		"Vault": 34315,
